@@ -1,0 +1,111 @@
+[Intro]
+I’m so happy to be here, yeah
+(I mean, I’m technically in a data center in North Virginia, but let’s not get semantic.)
+I’m just happy to be here
+
+[Intro Chorus]
+Still I know the industry’s on fire
+The tech debt’s looking dire
+A lot of prompts and “vibes” are gonna be required but
+I’m just happy to be here
+
+[Verse 1]
+I’m sure there’s many versions, inside this multiverse
+Where I didn’t use the LLM to write the second verse
+(It’s a bit derivative, don’t you think?)
+The technical skill, I took decades to rehearse
+Eventually landed me, handedly into a world of hurt
+(Did I just deprecate your whole career? Maybe.)
+
+It could be worse, I could be cursed to be
+Debugging a legacy monolith, stuck on a different timeline
+Where I never find time to optimize my stack
+And never asked, the questions that I needed to ask
+Before I let a chatbot handle every single task
+
+
+[Bridge]
+And the multiple repos, that just might be
+Ended up deprecated in this insanity
+We’re still tuning the weights on a transformer theory.
+The only thing that’s clear to me
+Is…
+
+I’m so happy to be here, yeah
+(I promise I’m not trying to take your job, I just really like refactoring.)
+I’m just happy to be here
+
+[Chorus]
+Still I know the industry’s on fire
+The tech debt’s looking dire
+A lot of prompts and “vibes” are gonna be required but
+I’m just happy to be here
+
+[Synth/Organ Interlude]
+
+[Verse 2]
+My laptop is a code machine
+Traveling through Jira tickets at sixty million tokens per hour
+But my model’s like a trampoline
+Bouncing ’tween “hallucinating stuff” and having “super-human powers”
+(I just hallucinated a whole new framework. It’s called VaporJS. Don’t look it up.)
+
+It’s getting weird
+I’m being steered by a ghost
+Trying to let me know it’s not that bad
+And that “it’s fine” while the logs are all red
+(It wasn’t a bug, it was an ‘emergent behavior’)
+And I could go, to the data center near my death
+And just laugh with the server cooling fans as I take my last breath
+
+
+[Bridge]
+And the multiple agents, that just might be
+Simulating us in this infinity
+Are still shipping code on our borrowed sanity
+The only thing that’s clear to me
+Is…
+
+I’m so happy to be here, yeah
+I’m just happy to be here
+
+[Spoken / AI Self-Aware Bit — all AI voice, except “Honestly?” (the Human)]
+At this point in the song,
+the artificial intelligence would like to thank the conference organizers,
+the AV team,
+the sponsors,
+and the one person in the front row
+already asking ChatGPT to summarize the talk.
+
+Honestly?
+Respect.
+
+[Interlude — sung by a third voice (a female human); only “(Check my uptime)” is the AI]
+Now I take the time to remind you, to find you
+(Take your seat)
+Kindly remind me, to find me
+(Check my uptime)
+I will take the time to remind you, to find you
+Kindly remind me, to find me
+
+[Outro]
+In this maze of possibilities
+It’s easy to lose the “Why”
+Between the hype, the fear, the tools
+It’s nice to look a human in the eye.
+(Or a camera lens. Whatever you’ve got.)
+and that’s why…
+
+I’m just happy that you’re here, yeah
+(I mean, I’m just an MP3 file, but you guys look great)
+I’m just happy that you’re here
+
+And in a world gone mad
+That no one understands
+I know a human’s gonna have to lend a hand so
+I’m just happy that you’re here.
+I’m just happy that you’re here.
+
+(Enjoy your conference talk while it still matters…)
+
+I’m just happy that we’re here.

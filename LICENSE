@@ -1,0 +1,92 @@
+"I'm So Happy To Be Here": licensing
+====================================
+
+This repository contains three kinds of material under different terms:
+
+  1. The code (everything not listed in 2 or 3): MIT License, below.
+  2. The song "I'm So Happy To Be Here" and the video: CC BY-NC 4.0, below.
+  3. Third-party fonts and images: their own licences, listed in
+     app/public/fonts/FONTS.md and app/public/assets/ASSETS.md.
+
+
+1. Code: MIT License
+--------------------
+
+Copyright (c) 2026 Josef Goldstein
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Code reused from pdoom-video
+----------------------------
+
+This project was inspired by pdoom-video (https://github.com/mexicat/pdoom-video),
+and reuses code from it: the rendering engine (app/src/engine/, app/src/main.ts),
+the export script (app/scripts/render.ts) and docs/ENGINE.md. Those portions
+remain under pdoom-video's MIT License:
+
+  Copyright (c) 2026 Giacomo Magnanini
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in all
+  copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  SOFTWARE.
+
+
+2. The song and the video: CC BY-NC 4.0
+---------------------------------------
+
+The MIT License above does NOT cover the song. The following are
+Copyright (c) 2026 Josef Goldstein and licensed under the Creative Commons
+Attribution-NonCommercial 4.0 International License
+(https://creativecommons.org/licenses/by-nc/4.0/):
+
+  - the recording of "I'm So Happy To Be Here" (audio/happy.mp3, and any other
+    audio of the song),
+  - its lyrics (song/lyrics.txt, song/lyrics.original.txt, and the lyric
+    text in data/lyrics.approx.json and on screen),
+  - the analysis data derived from the recording (data/, song/analysis.md),
+  - the rendered music video, and any video rendered from this repository
+    that contains the song.
+
+The lyrics were written by Josef Goldstein. The music was generated with Suno
+(https://suno.com) on a paid (Pro) plan, under which Suno assigns the rights
+in the output to the subscriber.
+
+You may share and adapt this material for non-commercial purposes, as long
+as you give appropriate credit, link to the licence and say if you made
+changes. Credit it as:
+
+  "I'm So Happy To Be Here" by Josef Goldstein (lyrics; music made with Suno),
+  licensed under CC BY-NC 4.0.
+  https://github.com/JosefGold/so-happy-to-be-here
+
+For commercial use, contact the author.

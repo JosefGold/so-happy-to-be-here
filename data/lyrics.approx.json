@@ -1,0 +1,3606 @@
+{
+ "lines": [
+  {
+   "text": "I\u2019m so happy to be here, yeah",
+   "voice": "human",
+   "section": "intro",
+   "start": 0.7,
+   "end": 4.08,
+   "words": [
+    {
+     "w": "I\u2019m",
+     "start": 0.7,
+     "end": 1.38
+    },
+    {
+     "w": "so",
+     "start": 1.38,
+     "end": 1.66
+    },
+    {
+     "w": "happy",
+     "start": 1.66,
+     "end": 2.16
+    },
+    {
+     "w": "to",
+     "start": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "be",
+     "start": 2.4,
+     "end": 2.66
+    },
+    {
+     "w": "here,",
+     "start": 2.66,
+     "end": 3.4
+    },
+    {
+     "w": "yeah",
+     "start": 3.74,
+     "end": 4.08
+    }
+   ]
+  },
+  {
+   "text": "I mean, I\u2019m technically in a data center in North Virginia, but let\u2019s not get semantic.",
+   "voice": "ai",
+   "section": "intro",
+   "start": 4.16,
+   "end": 8.92,
+   "words": [
+    {
+     "w": "I",
+     "start": 4.16,
+     "end": 4.54
+    },
+    {
+     "w": "mean,",
+     "start": 4.54,
+     "end": 4.68
+    },
+    {
+     "w": "I\u2019m",
+     "start": 4.82,
+     "end": 5.1
+    },
+    {
+     "w": "technically",
+     "start": 5.1,
+     "end": 5.52
+    },
+    {
+     "w": "in",
+     "start": 5.52,
+     "end": 5.76
+    },
+    {
+     "w": "a",
+     "start": 5.76,
+     "end": 5.88
+    },
+    {
+     "w": "data",
+     "start": 5.88,
+     "end": 6.12
+    },
+    {
+     "w": "center",
+     "start": 6.12,
+     "end": 6.4
+    },
+    {
+     "w": "in",
+     "start": 6.4,
+     "end": 6.64
+    },
+    {
+     "w": "North",
+     "start": 6.64,
+     "end": 6.84
+    },
+    {
+     "w": "Virginia,",
+     "start": 6.84,
+     "end": 7.22
+    },
+    {
+     "w": "but",
+     "start": 7.22,
+     "end": 7.7
+    },
+    {
+     "w": "let\u2019s",
+     "start": 7.7,
+     "end": 8.1
+    },
+    {
+     "w": "not",
+     "start": 8.1,
+     "end": 8.24
+    },
+    {
+     "w": "get",
+     "start": 8.24,
+     "end": 8.4
+    },
+    {
+     "w": "semantic.",
+     "start": 8.4,
+     "end": 8.92
+    }
+   ]
+  },
+  {
+   "text": "I\u2019m just happy to be here",
+   "voice": "human",
+   "section": "intro",
+   "start": 10.4,
+   "end": 12.86,
+   "words": [
+    {
+     "w": "I\u2019m",
+     "start": 10.4,
+     "end": 11.08
+    },
+    {
+     "w": "just",
+     "start": 11.08,
+     "end": 11.28
+    },
+    {
+     "w": "happy",
+     "start": 11.28,
+     "end": 11.76
+    },
+    {
+     "w": "to",
+     "start": 11.76,
+     "end": 11.98
+    },
+    {
+     "w": "be",
+     "start": 11.98,
+     "end": 12.22
+    },
+    {
+     "w": "here",
+     "start": 12.22,
+     "end": 12.86
+    }
+   ]
+  },
+  {
+   "text": "Still I know the industry\u2019s on fire",
+   "voice": "human",
+   "section": "intro chorus",
+   "start": 13.06,
+   "end": 16.58,
+   "words": [
+    {
+     "w": "Still",
+     "start": 13.06,
+     "end": 13.4
+    },
+    {
+     "w": "I",
+     "start": 14.0,
+     "end": 14.16
+    },
+    {
+     "w": "know",
+     "start": 14.16,
+     "end": 14.92
+    },
+    {
+     "w": "the",
+     "start": 14.92,
+     "end": 15.28
+    },
+    {
+     "w": "industry\u2019s",
+     "start": 15.28,
+     "end": 15.84
+    },
+    {
+     "w": "on",
+     "start": 15.84,
+     "end": 16.06
+    },
+    {
+     "w": "fire",
+     "start": 16.06,
+     "end": 16.58
+    }
+   ]
+  },
+  {
+   "text": "The tech debt\u2019s looking dire",
+   "voice": "human",
+   "section": "intro chorus",
+   "start": 18.0,
+   "end": 20.2,
+   "words": [
+    {
+     "w": "The",
+     "start": 18.0,
+     "end": 18.28
+    },
+    {
+     "w": "tech",
+     "start": 18.28,
+     "end": 18.52
+    },
+    {
+     "w": "debt\u2019s",
+     "start": 18.52,
+     "end": 19.04
+    },
+    {
+     "w": "looking",
+     "start": 19.04,
+     "end": 19.46
+    },
+    {
+     "w": "dire",
+     "start": 19.46,
+     "end": 20.2
+    }
+   ]
+  },
+  {
+   "text": "A lot of prompts and \u201cvibes\u201d are gonna be required but",
+   "voice": "human",
+   "section": "intro chorus",
+   "start": 21.12,
+   "end": 25.7,
+   "words": [
+    {
+     "w": "A",
+     "start": 21.12,
+     "end": 21.3
+    },
+    {
+     "w": "lot",
+     "start": 21.3,
+     "end": 21.5
+    },
+    {
+     "w": "of",
+     "start": 21.5,
+     "end": 21.62
+    },
+    {
+     "w": "prompts",
+     "start": 21.62,
+     "end": 21.9
+    },
+    {
+     "w": "and",
+     "start": 21.9,
+     "end": 22.12
+    },
+    {
+     "w": "\u201cvibes\u201d",
+     "start": 22.12,
+     "end": 22.84
+    },
+    {
+     "w": "are",
+     "start": 22.84,
+     "end": 23.3
+    },
+    {
+     "w": "gonna",
+     "start": 23.3,
+     "end": 23.64
+    },
+    {
+     "w": "be",
+     "start": 23.64,
+     "end": 24.04
+    },
+    {
+     "w": "required",
+     "start": 24.04,
+     "end": 24.98
+    },
+    {
+     "w": "but",
+     "start": 25.34,
+     "end": 25.7
+    }
+   ]
+  },
+  {
+   "text": "I\u2019m just happy to be here",
+   "voice": "human",
+   "section": "intro chorus",
+   "start": 27.38,
+   "end": 29.64,
+   "words": [
+    {
+     "w": "I\u2019m",
+     "start": 27.38,
+     "end": 27.88
+    },
+    {
+     "w": "just",
+     "start": 27.88,
+     "end": 28.08
+    },
+    {
+     "w": "happy",
+     "start": 28.08,
+     "end": 28.56
+    },
+    {
+     "w": "to",
+     "start": 28.56,
+     "end": 28.78
+    },
+    {
+     "w": "be",
+     "start": 28.78,
+     "end": 29.0
+    },
+    {
+     "w": "here",
+     "start": 29.0,
+     "end": 29.64
+    }
+   ]
+  },
+  {
+   "text": "I\u2019m sure there\u2019s many versions, inside this multiverse",
+   "voice": "human",
+   "section": "verse 1",
+   "start": 31.28,
+   "end": 33.8,
+   "words": [
+    {
+     "w": "I\u2019m",
+     "start": 31.28,
+     "end": 31.78
+    },
+    {
+     "w": "sure",
+     "start": 31.78,
+     "end": 31.94
+    },
+    {
+     "w": "there\u2019s",
+     "start": 31.94,
+     "end": 32.12
+    },
+    {
+     "w": "many",
+     "start": 32.12,
+     "end": 32.32
+    },
+    {
+     "w": "versions,",
+     "start": 32.32,
+     "end": 32.78
+    },
+    {
+     "w": "inside",
+     "start": 32.78,
+     "end": 33.12
+    },
+    {
+     "w": "this",
+     "start": 33.12,
+     "end": 33.28
+    },
+    {
+     "w": "multiverse",
+     "start": 33.28,
+     "end": 33.8
+    }
+   ]
+  },
+  {
+   "text": "Where I didn\u2019t use the LLM to write the second verse",
+   "voice": "human",
+   "section": "verse 1",
+   "start": 33.8,
+   "end": 36.32,
+   "words": [
+    {
+     "w": "Where",
+     "start": 33.8,
+     "end": 34.06
+    },
+    {
+     "w": "I",
+     "start": 34.06,
+     "end": 34.24
+    },
+    {
+     "w": "didn\u2019t",
+     "start": 34.24,
+     "end": 34.54
+    },
+    {
+     "w": "use",
+     "start": 34.54,
+     "end": 34.66
+    },
+    {
+     "w": "the",
+     "start": 34.66,
+     "end": 34.8
+    },
+    {
+     "w": "LLM",
+     "start": 34.8,
+     "end": 35.28
+    },
+    {
+     "w": "to",
+     "start": 35.28,
+     "end": 35.4
+    },
+    {
+     "w": "write",
+     "start": 35.4,
+     "end": 35.52
+    },
+    {
+     "w": "the",
+     "start": 35.52,
+     "end": 35.68
+    },
+    {
+     "w": "second",
+     "start": 35.68,
+     "end": 35.92
+    },
+    {
+     "w": "verse",
+     "start": 35.92,
+     "end": 36.32
+    }
+   ]
+  },
+  {
+   "text": "It\u2019s a bit derivative, don\u2019t you think?",
+   "voice": "ai",
+   "section": "verse 1",
+   "start": 36.52,
+   "end": 38.22,
+   "words": [
+    {
+     "w": "It\u2019s",
+     "start": 36.52,
+     "end": 36.66
+    },
+    {
+     "w": "a",
+     "start": 36.66,
+     "end": 36.74
+    },
+    {
+     "w": "bit",
+     "start": 36.74,
+     "end": 36.86
+    },
+    {
+     "w": "derivative,",
+     "start": 36.86,
+     "end": 37.42
+    },
+    {
+     "w": "don\u2019t",
+     "start": 37.64,
+     "end": 37.82
+    },
+    {
+     "w": "you",
+     "start": 37.82,
+     "end": 37.98
+    },
+    {
+     "w": "think?",
+     "start": 37.98,
+     "end": 38.22
+    }
+   ]
+  },
+  {
+   "text": "The technical skill, I took decades to rehearse",
+   "voice": "human",
+   "section": "verse 1",
+   "start": 38.76,
+   "end": 41.12,
+   "words": [
+    {
+     "w": "The",
+     "start": 38.76,
+     "end": 38.98
+    },
+    {
+     "w": "technical",
+     "start": 38.98,
+     "end": 39.32
+    },
+    {
+     "w": "skill,",
+     "start": 39.32,
+     "end": 39.64
+    },
+    {
+     "w": "I",
+     "start": 39.64,
+     "end": 39.88
+    },
+    {
+     "w": "took",
+     "start": 39.88,
+     "end": 40.04
+    },
+    {
+     "w": "decades",
+     "start": 40.04,
+     "end": 40.46
+    },
+    {
+     "w": "to",
+     "start": 40.46,
+     "end": 40.68
+    },
+    {
+     "w": "rehearse",
+     "start": 40.68,
+     "end": 41.12
+    }
+   ]
+  },
+  {
+   "text": "Eventually landed me, handedly into a world of hurt",
+   "voice": "human",
+   "section": "verse 1",
+   "start": 41.14,
+   "end": 44.32,
+   "words": [
+    {
+     "w": "Eventually",
+     "start": 41.14,
+     "end": 41.5
+    },
+    {
+     "w": "landed",
+     "start": 41.5,
+     "end": 41.94
+    },
+    {
+     "w": "me,",
+     "start": 41.94,
+     "end": 42.14
+    },
+    {
+     "w": "handedly",
+     "start": 42.14,
+     "end": 42.54
+    },
+    {
+     "w": "into",
+     "start": 42.54,
+     "end": 42.9
+    },
+    {
+     "w": "a",
+     "start": 42.9,
+     "end": 43.2
+    },
+    {
+     "w": "world",
+     "start": 43.2,
+     "end": 43.52
+    },
+    {
+     "w": "of",
+     "start": 43.52,
+     "end": 43.88
+    },
+    {
+     "w": "hurt",
+     "start": 43.88,
+     "end": 44.32
+    }
+   ]
+  },
+  {
+   "text": "Did I just deprecate your whole career? Maybe.",
+   "voice": "ai",
+   "section": "verse 1",
+   "start": 44.52,
+   "end": 46.92,
+   "words": [
+    {
+     "w": "Did",
+     "start": 44.52,
+     "end": 44.66
+    },
+    {
+     "w": "I",
+     "start": 44.66,
+     "end": 44.76
+    },
+    {
+     "w": "just",
+     "start": 44.76,
+     "end": 44.94
+    },
+    {
+     "w": "deprecate",
+     "start": 44.94,
+     "end": 45.5
+    },
+    {
+     "w": "your",
+     "start": 45.5,
+     "end": 45.68
+    },
+    {
+     "w": "whole",
+     "start": 45.68,
+     "end": 45.86
+    },
+    {
+     "w": "career?",
+     "start": 45.86,
+     "end": 46.22
+    },
+    {
+     "w": "Maybe.",
+     "start": 46.56,
+     "end": 46.92
+    }
+   ]
+  },
+  {
+   "text": "It could be worse, I could be cursed to be",
+   "voice": "human",
+   "section": "verse 1",
+   "start": 47.48,
+   "end": 49.88,
+   "words": [
+    {
+     "w": "It",
+     "start": 47.48,
+     "end": 47.84
+    },
+    {
+     "w": "could",
+     "start": 47.84,
+     "end": 48.02
+    },
+    {
+     "w": "be",
+     "start": 48.02,
+     "end": 48.34
+    },
+    {
+     "w": "worse,",
+     "start": 48.34,
+     "end": 48.66
+    },
+    {
+     "w": "I",
+     "start": 48.8,
+     "end": 48.92
+    },
+    {
+     "w": "could",
+     "start": 48.92,
+     "end": 49.04
+    },
+    {
+     "w": "be",
+     "start": 49.04,
+     "end": 49.18
+    },
+    {
+     "w": "cursed",
+     "start": 49.18,
+     "end": 49.44
+    },
+    {
+     "w": "to",
+     "start": 49.44,
+     "end": 49.66
+    },
+    {
+     "w": "be",
+     "start": 49.66,
+     "end": 49.88
+    }
+   ]
+  },
+  {
+   "text": "Debugging a legacy monolith, stuck on a different timeline",
+   "voice": "human",
+   "section": "verse 1",
+   "start": 49.88,
+   "end": 52.9,
+   "words": [
+    {
+     "w": "Debugging",
+     "start": 49.88,
+     "end": 50.3
+    },
+    {
+     "w": "a",
+     "start": 50.3,
+     "end": 50.58
+    },
+    {
+     "w": "legacy",
+     "start": 50.58,
+     "end": 50.88
+    },
+    {
+     "w": "monolith,",
+     "start": 50.88,
+     "end": 51.36
+    },
+    {
+     "w": "stuck",
+     "start": 51.36,
+     "end": 51.76
+    },
+    {
+     "w": "on",
+     "start": 51.76,
+     "end": 52.02
+    },
+    {
+     "w": "a",
+     "start": 52.02,
+     "end": 52.24
+    },
+    {
+     "w": "different",
+     "start": 52.24,
+     "end": 52.44
+    },
+    {
+     "w": "timeline",
+     "start": 52.44,
+     "end": 52.9
+    }
+   ]
+  },
+  {
+   "text": "Where I never find time to optimize my stack",
+   "voice": "human",
+   "section": "verse 1",
+   "start": 52.9,
+   "end": 55.36,
+   "words": [
+    {
+     "w": "Where",
+     "start": 52.9,
+     "end": 53.26
+    },
+    {
+     "w": "I",
+     "start": 53.26,
+     "end": 53.42
+    },
+    {
+     "w": "never",
+     "start": 53.42,
+     "end": 53.62
+    },
+    {
+     "w": "find",
+     "start": 53.62,
+     "end": 53.94
+    },
+    {
+     "w": "time",
+     "start": 53.94,
+     "end": 54.38
+    },
+    {
+     "w": "to",
+     "start": 54.38,
+     "end": 54.58
+    },
+    {
+     "w": "optimize",
+     "start": 54.58,
+     "end": 54.96
+    },
+    {
+     "w": "my",
+     "start": 54.96,
+     "end": 55.18
+    },
+    {
+     "w": "stack",
+     "start": 55.18,
+     "end": 55.36
+    }
+   ]
+  },
+  {
+   "text": "And never asked, the questions that I needed to ask",
+   "voice": "human",
+   "section": "verse 1",
+   "start": 55.36,
+   "end": 57.74,
+   "words": [
+    {
+     "w": "And",
+     "start": 55.36,
+     "end": 55.54
+    },
+    {
+     "w": "never",
+     "start": 55.54,
+     "end": 55.74
+    },
+    {
+     "w": "asked,",
+     "start": 55.85,
+     "end": 56.026
+    },
+    {
+     "w": "the",
+     "start": 56.18,
+     "end": 56.38
+    },
+    {
+     "w": "questions",
+     "start": 56.38,
+     "end": 56.62
+    },
+    {
+     "w": "that",
+     "start": 56.62,
+     "end": 56.9
+    },
+    {
+     "w": "I",
+     "start": 56.9,
+     "end": 57.02
+    },
+    {
+     "w": "needed",
+     "start": 57.02,
+     "end": 57.22
+    },
+    {
+     "w": "to",
+     "start": 57.22,
+     "end": 57.52
+    },
+    {
+     "w": "ask",
+     "start": 57.52,
+     "end": 57.74
+    }
+   ]
+  },
+  {
+   "text": "Before I let a chatbot handle every single task",
+   "voice": "human",
+   "section": "verse 1",
+   "start": 57.74,
+   "end": 62.32,
+   "words": [
+    {
+     "w": "Before",
+     "start": 57.74,
+     "end": 58.06
+    },
+    {
+     "w": "I",
+     "start": 58.06,
+     "end": 58.22
+    },
+    {
+     "w": "let",
+     "start": 58.22,
+     "end": 58.4
+    },
+    {
+     "w": "a",
+     "start": 58.4,
+     "end": 58.56
+    },
+    {
+     "w": "chatbot",
+     "start": 58.56,
+     "end": 59.16
+    },
+    {
+     "w": "handle",
+     "start": 59.16,
+     "end": 59.7
+    },
+    {
+     "w": "every",
+     "start": 59.7,
+     "end": 61.04
+    },
+    {
+     "w": "single",
+     "start": 61.04,
+     "end": 61.56
+    },
+    {
+     "w": "task",
+     "start": 61.56,
+     "end": 62.32
+    }
+   ]
+  },
+  {
+   "text": "And the multiple repos, that just might be",
+   "voice": "human",
+   "section": "bridge",
+   "start": 62.32,
+   "end": 65.06,
+   "words": [
+    {
+     "w": "And",
+     "start": 62.32,
+     "end": 62.86
+    },
+    {
+     "w": "the",
+     "start": 62.86,
+     "end": 63.0
+    },
+    {
+     "w": "multiple",
+     "start": 63.0,
+     "end": 63.32
+    },
+    {
+     "w": "repos,",
+     "start": 63.32,
+     "end": 63.98
+    },
+    {
+     "w": "that",
+     "start": 63.98,
+     "end": 64.24
+    },
+    {
+     "w": "just",
+     "start": 64.24,
+     "end": 64.4
+    },
+    {
+     "w": "might",
+     "start": 64.4,
+     "end": 64.68
+    },
+    {
+     "w": "be",
+     "start": 64.68,
+     "end": 65.06
+    }
+   ]
+  },
+  {
+   "text": "Ended up deprecated in this insanity",
+   "voice": "human",
+   "section": "bridge",
+   "start": 65.06,
+   "end": 67.1,
+   "words": [
+    {
+     "w": "Ended",
+     "start": 65.06,
+     "end": 65.38
+    },
+    {
+     "w": "up",
+     "start": 65.38,
+     "end": 65.64
+    },
+    {
+     "w": "deprecated",
+     "start": 65.64,
+     "end": 66.26
+    },
+    {
+     "w": "in",
+     "start": 66.26,
+     "end": 66.48
+    },
+    {
+     "w": "this",
+     "start": 66.48,
+     "end": 66.64
+    },
+    {
+     "w": "insanity",
+     "start": 66.64,
+     "end": 67.1
+    }
+   ]
+  },
+  {
+   "text": "We\u2019re still tuning the weights on a transformer theory.",
+   "voice": "human",
+   "section": "bridge",
+   "start": 67.1,
+   "end": 70.06,
+   "words": [
+    {
+     "w": "We\u2019re",
+     "start": 67.1,
+     "end": 67.5
+    },
+    {
+     "w": "still",
+     "start": 67.5,
+     "end": 67.66
+    },
+    {
+     "w": "tuning",
+     "start": 67.66,
+     "end": 68.06
+    },
+    {
+     "w": "the",
+     "start": 68.06,
+     "end": 68.28
+    },
+    {
+     "w": "weights",
+     "start": 68.28,
+     "end": 68.52
+    },
+    {
+     "w": "on",
+     "start": 68.52,
+     "end": 68.76
+    },
+    {
+     "w": "a",
+     "start": 68.76,
+     "end": 68.9
+    },
+    {
+     "w": "transformer",
+     "start": 68.9,
+     "end": 69.36
+    },
+    {
+     "w": "theory.",
+     "start": 69.36,
+     "end": 70.06
+    }
+   ]
+  },
+  {
+   "text": "The only thing that\u2019s clear to me",
+   "voice": "human",
+   "section": "bridge",
+   "start": 70.56,
+   "end": 72.24,
+   "words": [
+    {
+     "w": "The",
+     "start": 70.56,
+     "end": 70.82
+    },
+    {
+     "w": "only",
+     "start": 70.82,
+     "end": 71.04
+    },
+    {
+     "w": "thing",
+     "start": 71.04,
+     "end": 71.26
+    },
+    {
+     "w": "that\u2019s",
+     "start": 71.26,
+     "end": 71.54
+    },
+    {
+     "w": "clear",
+     "start": 71.54,
+     "end": 71.78
+    },
+    {
+     "w": "to",
+     "start": 71.78,
+     "end": 71.98
+    },
+    {
+     "w": "me",
+     "start": 71.98,
+     "end": 72.24
+    }
+   ]
+  },
+  {
+   "text": "Is\u2026",
+   "voice": "human",
+   "section": "bridge",
+   "start": 72.24,
+   "end": 72.68,
+   "words": [
+    {
+     "w": "Is\u2026",
+     "start": 72.24,
+     "end": 72.68
+    }
+   ]
+  },
+  {
+   "text": "I\u2019m so happy to be here, yeah",
+   "voice": "human",
+   "section": "bridge",
+   "start": 72.68,
+   "end": 75.58,
+   "words": [
+    {
+     "w": "I\u2019m",
+     "start": 72.68,
+     "end": 73.44
+    },
+    {
+     "w": "so",
+     "start": 73.44,
+     "end": 73.7
+    },
+    {
+     "w": "happy",
+     "start": 73.7,
+     "end": 74.16
+    },
+    {
+     "w": "to",
+     "start": 74.16,
+     "end": 74.4
+    },
+    {
+     "w": "be",
+     "start": 74.4,
+     "end": 74.62
+    },
+    {
+     "w": "here,",
+     "start": 74.62,
+     "end": 75.16
+    },
+    {
+     "w": "yeah",
+     "start": 75.58,
+     "end": 75.58
+    }
+   ]
+  },
+  {
+   "text": "I promise I\u2019m not trying to take your job, I just really like refactoring.",
+   "voice": "ai",
+   "section": "bridge",
+   "start": 75.58,
+   "end": 79.84,
+   "words": [
+    {
+     "w": "I",
+     "start": 75.58,
+     "end": 75.98
+    },
+    {
+     "w": "promise",
+     "start": 75.98,
+     "end": 76.32
+    },
+    {
+     "w": "I\u2019m",
+     "start": 76.32,
+     "end": 76.58
+    },
+    {
+     "w": "not",
+     "start": 76.58,
+     "end": 76.76
+    },
+    {
+     "w": "trying",
+     "start": 76.76,
+     "end": 77.04
+    },
+    {
+     "w": "to",
+     "start": 77.04,
+     "end": 77.18
+    },
+    {
+     "w": "take",
+     "start": 77.18,
+     "end": 77.4
+    },
+    {
+     "w": "your",
+     "start": 77.4,
+     "end": 77.6
+    },
+    {
+     "w": "job,",
+     "start": 77.6,
+     "end": 78.02
+    },
+    {
+     "w": "I",
+     "start": 78.04,
+     "end": 78.16
+    },
+    {
+     "w": "just",
+     "start": 78.16,
+     "end": 78.38
+    },
+    {
+     "w": "really",
+     "start": 78.38,
+     "end": 78.86
+    },
+    {
+     "w": "like",
+     "start": 78.86,
+     "end": 79.12
+    },
+    {
+     "w": "refactoring.",
+     "start": 79.12,
+     "end": 79.84
+    }
+   ]
+  },
+  {
+   "text": "I\u2019m just happy to be here",
+   "voice": "human",
+   "section": "bridge",
+   "start": 79.84,
+   "end": 82.32,
+   "words": [
+    {
+     "w": "I\u2019m",
+     "start": 79.84,
+     "end": 80.7
+    },
+    {
+     "w": "just",
+     "start": 80.7,
+     "end": 80.94
+    },
+    {
+     "w": "happy",
+     "start": 80.94,
+     "end": 81.36
+    },
+    {
+     "w": "to",
+     "start": 81.36,
+     "end": 81.58
+    },
+    {
+     "w": "be",
+     "start": 81.58,
+     "end": 81.84
+    },
+    {
+     "w": "here",
+     "start": 81.84,
+     "end": 82.32
+    }
+   ]
+  },
+  {
+   "text": "Still I know the industry\u2019s on fire",
+   "voice": "human",
+   "section": "chorus",
+   "start": 82.54,
+   "end": 86.22,
+   "words": [
+    {
+     "w": "Still",
+     "start": 82.54,
+     "end": 83.04
+    },
+    {
+     "w": "I",
+     "start": 83.6,
+     "end": 83.78
+    },
+    {
+     "w": "know",
+     "start": 83.78,
+     "end": 84.54
+    },
+    {
+     "w": "the",
+     "start": 84.54,
+     "end": 84.9
+    },
+    {
+     "w": "industry\u2019s",
+     "start": 84.9,
+     "end": 85.44
+    },
+    {
+     "w": "on",
+     "start": 85.44,
+     "end": 85.68
+    },
+    {
+     "w": "fire",
+     "start": 85.68,
+     "end": 86.22
+    }
+   ]
+  },
+  {
+   "text": "The tech debt\u2019s looking dire",
+   "voice": "human",
+   "section": "chorus",
+   "start": 87.06,
+   "end": 89.82,
+   "words": [
+    {
+     "w": "The",
+     "start": 87.06,
+     "end": 87.9
+    },
+    {
+     "w": "tech",
+     "start": 87.9,
+     "end": 88.12
+    },
+    {
+     "w": "debt\u2019s",
+     "start": 88.12,
+     "end": 88.62
+    },
+    {
+     "w": "looking",
+     "start": 88.62,
+     "end": 89.04
+    },
+    {
+     "w": "dire",
+     "start": 89.04,
+     "end": 89.82
+    }
+   ]
+  },
+  {
+   "text": "A lot of prompts and \u201cvibes\u201d are gonna be required but",
+   "voice": "human",
+   "section": "chorus",
+   "start": 90.76,
+   "end": 95.4,
+   "words": [
+    {
+     "w": "A",
+     "start": 90.76,
+     "end": 90.9
+    },
+    {
+     "w": "lot",
+     "start": 90.9,
+     "end": 91.08
+    },
+    {
+     "w": "of",
+     "start": 91.08,
+     "end": 91.22
+    },
+    {
+     "w": "prompts",
+     "start": 91.22,
+     "end": 91.52
+    },
+    {
+     "w": "and",
+     "start": 91.52,
+     "end": 91.74
+    },
+    {
+     "w": "\u201cvibes\u201d",
+     "start": 91.74,
+     "end": 92.48
+    },
+    {
+     "w": "are",
+     "start": 92.48,
+     "end": 92.9
+    },
+    {
+     "w": "gonna",
+     "start": 92.9,
+     "end": 93.26
+    },
+    {
+     "w": "be",
+     "start": 93.26,
+     "end": 93.66
+    },
+    {
+     "w": "required",
+     "start": 93.66,
+     "end": 94.6
+    },
+    {
+     "w": "but",
+     "start": 94.98,
+     "end": 95.4
+    }
+   ]
+  },
+  {
+   "text": "I\u2019m just happy to be here",
+   "voice": "human",
+   "section": "chorus",
+   "start": 96.68,
+   "end": 99.18,
+   "words": [
+    {
+     "w": "I\u2019m",
+     "start": 96.68,
+     "end": 97.52
+    },
+    {
+     "w": "just",
+     "start": 97.52,
+     "end": 97.76
+    },
+    {
+     "w": "happy",
+     "start": 97.76,
+     "end": 98.18
+    },
+    {
+     "w": "to",
+     "start": 98.18,
+     "end": 98.42
+    },
+    {
+     "w": "be",
+     "start": 98.42,
+     "end": 98.64
+    },
+    {
+     "w": "here",
+     "start": 98.64,
+     "end": 99.18
+    }
+   ]
+  },
+  {
+   "text": "My laptop is a code machine",
+   "voice": "human",
+   "section": "verse 2",
+   "start": 110.34,
+   "end": 112.74,
+   "words": [
+    {
+     "w": "My",
+     "start": 110.34,
+     "end": 110.9
+    },
+    {
+     "w": "laptop",
+     "start": 110.9,
+     "end": 111.46
+    },
+    {
+     "w": "is",
+     "start": 111.46,
+     "end": 111.92
+    },
+    {
+     "w": "a",
+     "start": 111.92,
+     "end": 112.08
+    },
+    {
+     "w": "code",
+     "start": 112.08,
+     "end": 112.26
+    },
+    {
+     "w": "machine",
+     "start": 112.26,
+     "end": 112.74
+    }
+   ]
+  },
+  {
+   "text": "Traveling through Jira tickets at sixty million tokens per hour",
+   "voice": "human",
+   "section": "verse 2",
+   "start": 113.14,
+   "end": 116.22,
+   "words": [
+    {
+     "w": "Traveling",
+     "start": 113.14,
+     "end": 113.38
+    },
+    {
+     "w": "through",
+     "start": 113.38,
+     "end": 113.68
+    },
+    {
+     "w": "Jira",
+     "start": 113.745,
+     "end": 113.849
+    },
+    {
+     "w": "tickets",
+     "start": 113.94,
+     "end": 114.18
+    },
+    {
+     "w": "at",
+     "start": 114.18,
+     "end": 114.46
+    },
+    {
+     "w": "sixty",
+     "start": 114.54,
+     "end": 114.668
+    },
+    {
+     "w": "million",
+     "start": 114.78,
+     "end": 115.1
+    },
+    {
+     "w": "tokens",
+     "start": 115.1,
+     "end": 115.38
+    },
+    {
+     "w": "per",
+     "start": 115.38,
+     "end": 115.64
+    },
+    {
+     "w": "hour",
+     "start": 115.64,
+     "end": 116.22
+    }
+   ]
+  },
+  {
+   "text": "But my model\u2019s like a trampoline",
+   "voice": "human",
+   "section": "verse 2",
+   "start": 117.36,
+   "end": 119.9,
+   "words": [
+    {
+     "w": "But",
+     "start": 117.36,
+     "end": 117.92
+    },
+    {
+     "w": "my",
+     "start": 117.92,
+     "end": 118.16
+    },
+    {
+     "w": "model\u2019s",
+     "start": 118.325,
+     "end": 118.589
+    },
+    {
+     "w": "like",
+     "start": 118.82,
+     "end": 119.1
+    },
+    {
+     "w": "a",
+     "start": 119.1,
+     "end": 119.28
+    },
+    {
+     "w": "trampoline",
+     "start": 119.28,
+     "end": 119.9
+    }
+   ]
+  },
+  {
+   "text": "Bouncing \u2019tween \u201challucinating stuff\u201d and having \u201csuper-human powers\u201d",
+   "voice": "human",
+   "section": "verse 2",
+   "start": 120.04,
+   "end": 122.94,
+   "words": [
+    {
+     "w": "Bouncing",
+     "start": 120.04,
+     "end": 120.22
+    },
+    {
+     "w": "\u2019tween",
+     "start": 120.275,
+     "end": 120.363
+    },
+    {
+     "w": "\u201challucinating",
+     "start": 120.44,
+     "end": 121.08
+    },
+    {
+     "w": "stuff\u201d",
+     "start": 121.08,
+     "end": 121.3
+    },
+    {
+     "w": "and",
+     "start": 121.3,
+     "end": 121.54
+    },
+    {
+     "w": "having",
+     "start": 121.54,
+     "end": 121.74
+    },
+    {
+     "w": "\u201csuper-human",
+     "start": 121.74,
+     "end": 122.66
+    },
+    {
+     "w": "powers\u201d",
+     "start": 122.66,
+     "end": 122.94
+    }
+   ]
+  },
+  {
+   "text": "I just hallucinated a whole new framework. It\u2019s called VaporJS. Don\u2019t look it up.",
+   "voice": "ai",
+   "section": "verse 2",
+   "start": 123.88,
+   "end": 129.32,
+   "words": [
+    {
+     "w": "I",
+     "start": 123.88,
+     "end": 123.96
+    },
+    {
+     "w": "just",
+     "start": 123.96,
+     "end": 124.16
+    },
+    {
+     "w": "hallucinated",
+     "start": 124.16,
+     "end": 124.9
+    },
+    {
+     "w": "a",
+     "start": 124.9,
+     "end": 125.12
+    },
+    {
+     "w": "whole",
+     "start": 125.12,
+     "end": 125.44
+    },
+    {
+     "w": "new",
+     "start": 125.44,
+     "end": 125.7
+    },
+    {
+     "w": "framework.",
+     "start": 125.7,
+     "end": 126.2
+    },
+    {
+     "w": "It\u2019s",
+     "start": 126.52,
+     "end": 126.62
+    },
+    {
+     "w": "called",
+     "start": 126.62,
+     "end": 126.88
+    },
+    {
+     "w": "VaporJS.",
+     "start": 127.27,
+     "end": 127.894
+    },
+    {
+     "w": "Don\u2019t",
+     "start": 128.44,
+     "end": 128.84
+    },
+    {
+     "w": "look",
+     "start": 128.84,
+     "end": 129.0
+    },
+    {
+     "w": "it",
+     "start": 129.0,
+     "end": 129.14
+    },
+    {
+     "w": "up.",
+     "start": 129.14,
+     "end": 129.32
+    }
+   ]
+  },
+  {
+   "text": "It\u2019s getting weird",
+   "voice": "human",
+   "section": "verse 2",
+   "start": 129.48,
+   "end": 130.3,
+   "words": [
+    {
+     "w": "It\u2019s",
+     "start": 129.48,
+     "end": 129.62
+    },
+    {
+     "w": "getting",
+     "start": 129.62,
+     "end": 129.88
+    },
+    {
+     "w": "weird",
+     "start": 129.88,
+     "end": 130.3
+    }
+   ]
+  },
+  {
+   "text": "I\u2019m being steered by a ghost",
+   "voice": "human",
+   "section": "verse 2",
+   "start": 130.5,
+   "end": 131.64,
+   "words": [
+    {
+     "w": "I\u2019m",
+     "start": 130.5,
+     "end": 130.52
+    },
+    {
+     "w": "being",
+     "start": 130.52,
+     "end": 130.68
+    },
+    {
+     "w": "steered",
+     "start": 130.68,
+     "end": 131.06
+    },
+    {
+     "w": "by",
+     "start": 131.06,
+     "end": 131.26
+    },
+    {
+     "w": "a",
+     "start": 131.26,
+     "end": 131.4
+    },
+    {
+     "w": "ghost",
+     "start": 131.4,
+     "end": 131.64
+    }
+   ]
+  },
+  {
+   "text": "Trying to let me know it\u2019s not that bad",
+   "voice": "human",
+   "section": "verse 2",
+   "start": 131.72,
+   "end": 134.18,
+   "words": [
+    {
+     "w": "Trying",
+     "start": 131.72,
+     "end": 131.848
+    },
+    {
+     "w": "to",
+     "start": 131.96,
+     "end": 132.14
+    },
+    {
+     "w": "let",
+     "start": 132.14,
+     "end": 132.42
+    },
+    {
+     "w": "me",
+     "start": 132.42,
+     "end": 132.56
+    },
+    {
+     "w": "know",
+     "start": 132.56,
+     "end": 132.86
+    },
+    {
+     "w": "it\u2019s",
+     "start": 132.86,
+     "end": 133.18
+    },
+    {
+     "w": "not",
+     "start": 133.18,
+     "end": 133.4
+    },
+    {
+     "w": "that",
+     "start": 133.4,
+     "end": 133.72
+    },
+    {
+     "w": "bad",
+     "start": 133.72,
+     "end": 134.18
+    }
+   ]
+  },
+  {
+   "text": "And that \u201cit\u2019s fine\u201d while the logs are all red",
+   "voice": "human",
+   "section": "verse 2",
+   "start": 134.18,
+   "end": 137.38,
+   "words": [
+    {
+     "w": "And",
+     "start": 134.18,
+     "end": 134.48
+    },
+    {
+     "w": "that",
+     "start": 134.48,
+     "end": 134.68
+    },
+    {
+     "w": "\u201cit\u2019s",
+     "start": 134.68,
+     "end": 135.0
+    },
+    {
+     "w": "fine\u201d",
+     "start": 135.0,
+     "end": 135.56
+    },
+    {
+     "w": "while",
+     "start": 135.56,
+     "end": 136.04
+    },
+    {
+     "w": "the",
+     "start": 136.04,
+     "end": 136.2
+    },
+    {
+     "w": "logs",
+     "start": 136.2,
+     "end": 136.52
+    },
+    {
+     "w": "are",
+     "start": 136.52,
+     "end": 136.72
+    },
+    {
+     "w": "all",
+     "start": 136.72,
+     "end": 137.04
+    },
+    {
+     "w": "red",
+     "start": 137.04,
+     "end": 137.38
+    }
+   ]
+  },
+  {
+   "text": "It wasn\u2019t a bug, it was an \u2018emergent behavior\u2019",
+   "voice": "ai",
+   "section": "verse 2",
+   "start": 137.38,
+   "end": 140.02,
+   "words": [
+    {
+     "w": "It",
+     "start": 137.38,
+     "end": 137.78
+    },
+    {
+     "w": "wasn\u2019t",
+     "start": 137.78,
+     "end": 138.08
+    },
+    {
+     "w": "a",
+     "start": 138.08,
+     "end": 138.24
+    },
+    {
+     "w": "bug,",
+     "start": 138.24,
+     "end": 138.42
+    },
+    {
+     "w": "it",
+     "start": 138.6,
+     "end": 138.66
+    },
+    {
+     "w": "was",
+     "start": 138.66,
+     "end": 138.8
+    },
+    {
+     "w": "an",
+     "start": 138.8,
+     "end": 138.92
+    },
+    {
+     "w": "\u2018emergent",
+     "start": 138.92,
+     "end": 139.4
+    },
+    {
+     "w": "behavior\u2019",
+     "start": 139.4,
+     "end": 140.02
+    }
+   ]
+  },
+  {
+   "text": "And I could go, to the data center near my death",
+   "voice": "human",
+   "section": "verse 2",
+   "start": 140.36,
+   "end": 143.52,
+   "words": [
+    {
+     "w": "And",
+     "start": 140.36,
+     "end": 140.76
+    },
+    {
+     "w": "I",
+     "start": 140.76,
+     "end": 140.88
+    },
+    {
+     "w": "could",
+     "start": 140.88,
+     "end": 141.02
+    },
+    {
+     "w": "go,",
+     "start": 141.02,
+     "end": 141.34
+    },
+    {
+     "w": "to",
+     "start": 141.34,
+     "end": 142.02
+    },
+    {
+     "w": "the",
+     "start": 142.02,
+     "end": 142.18
+    },
+    {
+     "w": "data",
+     "start": 142.18,
+     "end": 142.4
+    },
+    {
+     "w": "center",
+     "start": 142.4,
+     "end": 142.7
+    },
+    {
+     "w": "near",
+     "start": 142.7,
+     "end": 142.96
+    },
+    {
+     "w": "my",
+     "start": 142.96,
+     "end": 143.16
+    },
+    {
+     "w": "death",
+     "start": 143.16,
+     "end": 143.52
+    }
+   ]
+  },
+  {
+   "text": "And just laugh with the server cooling fans as I take my last breath",
+   "voice": "human",
+   "section": "verse 2",
+   "start": 143.52,
+   "end": 149.06,
+   "words": [
+    {
+     "w": "And",
+     "start": 143.52,
+     "end": 144.28
+    },
+    {
+     "w": "just",
+     "start": 144.28,
+     "end": 144.48
+    },
+    {
+     "w": "laugh",
+     "start": 144.48,
+     "end": 145.22
+    },
+    {
+     "w": "with",
+     "start": 145.22,
+     "end": 145.68
+    },
+    {
+     "w": "the",
+     "start": 145.68,
+     "end": 145.8
+    },
+    {
+     "w": "server",
+     "start": 145.8,
+     "end": 146.08
+    },
+    {
+     "w": "cooling",
+     "start": 146.08,
+     "end": 146.58
+    },
+    {
+     "w": "fans",
+     "start": 146.58,
+     "end": 147.34
+    },
+    {
+     "w": "as",
+     "start": 147.6,
+     "end": 147.8
+    },
+    {
+     "w": "I",
+     "start": 147.8,
+     "end": 147.96
+    },
+    {
+     "w": "take",
+     "start": 147.96,
+     "end": 148.24
+    },
+    {
+     "w": "my",
+     "start": 148.24,
+     "end": 148.48
+    },
+    {
+     "w": "last",
+     "start": 148.48,
+     "end": 148.76
+    },
+    {
+     "w": "breath",
+     "start": 148.76,
+     "end": 149.06
+    }
+   ]
+  },
+  {
+   "text": "And the multiple agents, that just might be",
+   "voice": "human",
+   "section": "bridge",
+   "start": 149.06,
+   "end": 151.52,
+   "words": [
+    {
+     "w": "And",
+     "start": 149.06,
+     "end": 149.28
+    },
+    {
+     "w": "the",
+     "start": 149.28,
+     "end": 149.38
+    },
+    {
+     "w": "multiple",
+     "start": 149.38,
+     "end": 149.66
+    },
+    {
+     "w": "agents,",
+     "start": 149.66,
+     "end": 150.28
+    },
+    {
+     "w": "that",
+     "start": 150.28,
+     "end": 150.64
+    },
+    {
+     "w": "just",
+     "start": 150.64,
+     "end": 150.84
+    },
+    {
+     "w": "might",
+     "start": 150.84,
+     "end": 151.08
+    },
+    {
+     "w": "be",
+     "start": 151.08,
+     "end": 151.52
+    }
+   ]
+  },
+  {
+   "text": "Simulating us in this infinity",
+   "voice": "human",
+   "section": "bridge",
+   "start": 151.52,
+   "end": 153.5,
+   "words": [
+    {
+     "w": "Simulating",
+     "start": 151.52,
+     "end": 152.32
+    },
+    {
+     "w": "us",
+     "start": 152.32,
+     "end": 152.6
+    },
+    {
+     "w": "in",
+     "start": 152.6,
+     "end": 152.74
+    },
+    {
+     "w": "this",
+     "start": 152.74,
+     "end": 152.88
+    },
+    {
+     "w": "infinity",
+     "start": 152.88,
+     "end": 153.5
+    }
+   ]
+  },
+  {
+   "text": "Are still shipping code on our borrowed sanity",
+   "voice": "human",
+   "section": "bridge",
+   "start": 153.595,
+   "end": 156.46,
+   "words": [
+    {
+     "w": "Are",
+     "start": 153.595,
+     "end": 153.747
+    },
+    {
+     "w": "still",
+     "start": 153.88,
+     "end": 154.08
+    },
+    {
+     "w": "shipping",
+     "start": 154.08,
+     "end": 154.5
+    },
+    {
+     "w": "code",
+     "start": 154.5,
+     "end": 154.92
+    },
+    {
+     "w": "on",
+     "start": 154.92,
+     "end": 155.18
+    },
+    {
+     "w": "our",
+     "start": 155.18,
+     "end": 155.34
+    },
+    {
+     "w": "borrowed",
+     "start": 155.34,
+     "end": 155.76
+    },
+    {
+     "w": "sanity",
+     "start": 155.76,
+     "end": 156.46
+    }
+   ]
+  },
+  {
+   "text": "The only thing that\u2019s clear to me",
+   "voice": "human",
+   "section": "bridge",
+   "start": 157.08,
+   "end": 158.58,
+   "words": [
+    {
+     "w": "The",
+     "start": 157.08,
+     "end": 157.2
+    },
+    {
+     "w": "only",
+     "start": 157.2,
+     "end": 157.42
+    },
+    {
+     "w": "thing",
+     "start": 157.42,
+     "end": 157.64
+    },
+    {
+     "w": "that\u2019s",
+     "start": 157.64,
+     "end": 157.94
+    },
+    {
+     "w": "clear",
+     "start": 157.94,
+     "end": 158.18
+    },
+    {
+     "w": "to",
+     "start": 158.18,
+     "end": 158.4
+    },
+    {
+     "w": "me",
+     "start": 158.4,
+     "end": 158.58
+    }
+   ]
+  },
+  {
+   "text": "Is\u2026",
+   "voice": "human",
+   "section": "bridge",
+   "start": 158.58,
+   "end": 159.04,
+   "words": [
+    {
+     "w": "Is\u2026",
+     "start": 158.58,
+     "end": 159.04
+    }
+   ]
+  },
+  {
+   "text": "I\u2019m so happy to be here, yeah",
+   "voice": "human",
+   "section": "bridge",
+   "start": 159.04,
+   "end": 162.58,
+   "words": [
+    {
+     "w": "I\u2019m",
+     "start": 159.04,
+     "end": 159.84
+    },
+    {
+     "w": "so",
+     "start": 159.84,
+     "end": 160.1
+    },
+    {
+     "w": "happy",
+     "start": 160.1,
+     "end": 160.58
+    },
+    {
+     "w": "to",
+     "start": 160.58,
+     "end": 160.78
+    },
+    {
+     "w": "be",
+     "start": 160.78,
+     "end": 161.18
+    },
+    {
+     "w": "here,",
+     "start": 161.18,
+     "end": 162.04
+    },
+    {
+     "w": "yeah",
+     "start": 162.4,
+     "end": 162.58
+    }
+   ]
+  },
+  {
+   "text": "I\u2019m just happy to be here",
+   "voice": "human",
+   "section": "bridge",
+   "start": 163.96,
+   "end": 166.82,
+   "words": [
+    {
+     "w": "I\u2019m",
+     "start": 163.96,
+     "end": 164.72
+    },
+    {
+     "w": "just",
+     "start": 164.72,
+     "end": 164.94
+    },
+    {
+     "w": "happy",
+     "start": 164.94,
+     "end": 165.38
+    },
+    {
+     "w": "to",
+     "start": 165.38,
+     "end": 165.68
+    },
+    {
+     "w": "be",
+     "start": 165.68,
+     "end": 166.08
+    },
+    {
+     "w": "here",
+     "start": 166.08,
+     "end": 166.82
+    }
+   ]
+  },
+  {
+   "text": "At this point in the song,",
+   "voice": "ai",
+   "section": "spoken / ai self-aware bit",
+   "start": 167.42,
+   "end": 168.74,
+   "words": [
+    {
+     "w": "At",
+     "start": 167.42,
+     "end": 167.7
+    },
+    {
+     "w": "this",
+     "start": 167.7,
+     "end": 167.9
+    },
+    {
+     "w": "point",
+     "start": 167.9,
+     "end": 168.14
+    },
+    {
+     "w": "in",
+     "start": 168.14,
+     "end": 168.3
+    },
+    {
+     "w": "the",
+     "start": 168.3,
+     "end": 168.4
+    },
+    {
+     "w": "song,",
+     "start": 168.4,
+     "end": 168.74
+    }
+   ]
+  },
+  {
+   "text": "the artificial intelligence would like to thank the conference organizers,",
+   "voice": "ai",
+   "section": "spoken / ai self-aware bit",
+   "start": 169.34,
+   "end": 172.94,
+   "words": [
+    {
+     "w": "the",
+     "start": 169.34,
+     "end": 169.5
+    },
+    {
+     "w": "artificial",
+     "start": 169.5,
+     "end": 169.88
+    },
+    {
+     "w": "intelligence",
+     "start": 169.88,
+     "end": 170.74
+    },
+    {
+     "w": "would",
+     "start": 170.74,
+     "end": 171.0
+    },
+    {
+     "w": "like",
+     "start": 171.0,
+     "end": 171.16
+    },
+    {
+     "w": "to",
+     "start": 171.16,
+     "end": 171.3
+    },
+    {
+     "w": "thank",
+     "start": 171.3,
+     "end": 171.54
+    },
+    {
+     "w": "the",
+     "start": 171.54,
+     "end": 171.74
+    },
+    {
+     "w": "conference",
+     "start": 171.74,
+     "end": 172.14
+    },
+    {
+     "w": "organizers,",
+     "start": 172.14,
+     "end": 172.94
+    }
+   ]
+  },
+  {
+   "text": "the AV team,",
+   "voice": "ai",
+   "section": "spoken / ai self-aware bit",
+   "start": 173.58,
+   "end": 174.52,
+   "words": [
+    {
+     "w": "the",
+     "start": 173.58,
+     "end": 173.76
+    },
+    {
+     "w": "AV",
+     "start": 173.76,
+     "end": 174.02
+    },
+    {
+     "w": "team,",
+     "start": 174.02,
+     "end": 174.52
+    }
+   ]
+  },
+  {
+   "text": "the sponsors,",
+   "voice": "ai",
+   "section": "spoken / ai self-aware bit",
+   "start": 174.88,
+   "end": 175.5,
+   "words": [
+    {
+     "w": "the",
+     "start": 174.88,
+     "end": 174.96
+    },
+    {
+     "w": "sponsors,",
+     "start": 174.96,
+     "end": 175.5
+    }
+   ]
+  },
+  {
+   "text": "and the one person in the front row",
+   "voice": "ai",
+   "section": "spoken / ai self-aware bit",
+   "start": 175.96,
+   "end": 178.3,
+   "words": [
+    {
+     "w": "and",
+     "start": 175.96,
+     "end": 176.66
+    },
+    {
+     "w": "the",
+     "start": 176.66,
+     "end": 176.76
+    },
+    {
+     "w": "one",
+     "start": 176.76,
+     "end": 176.94
+    },
+    {
+     "w": "person",
+     "start": 176.94,
+     "end": 177.34
+    },
+    {
+     "w": "in",
+     "start": 177.34,
+     "end": 177.54
+    },
+    {
+     "w": "the",
+     "start": 177.54,
+     "end": 177.64
+    },
+    {
+     "w": "front",
+     "start": 177.64,
+     "end": 177.92
+    },
+    {
+     "w": "row",
+     "start": 177.92,
+     "end": 178.3
+    }
+   ]
+  },
+  {
+   "text": "already asking ChatGPT to summarize the talk.",
+   "voice": "ai",
+   "section": "spoken / ai self-aware bit",
+   "start": 178.57,
+   "end": 182.98,
+   "words": [
+    {
+     "w": "already",
+     "start": 178.57,
+     "end": 179.002
+    },
+    {
+     "w": "asking",
+     "start": 179.38,
+     "end": 179.7
+    },
+    {
+     "w": "ChatGPT",
+     "start": 180.065,
+     "end": 180.649
+    },
+    {
+     "w": "to",
+     "start": 181.16,
+     "end": 181.74
+    },
+    {
+     "w": "summarize",
+     "start": 181.74,
+     "end": 182.16
+    },
+    {
+     "w": "the",
+     "start": 182.16,
+     "end": 182.64
+    },
+    {
+     "w": "talk.",
+     "start": 182.64,
+     "end": 182.98
+    }
+   ]
+  },
+  {
+   "text": "Honestly?",
+   "voice": "human",
+   "section": "spoken / ai self-aware bit",
+   "start": 183.2,
+   "end": 184.2,
+   "words": [
+    {
+     "w": "Honestly?",
+     "start": 183.2,
+     "end": 184.2
+    }
+   ]
+  },
+  {
+   "text": "Respect.",
+   "voice": "ai",
+   "section": "spoken / ai self-aware bit",
+   "start": 185.75,
+   "end": 186.5,
+   "words": [
+    {
+     "w": "Respect.",
+     "start": 185.75,
+     "end": 186.5
+    }
+   ]
+  },
+  {
+   "text": "Now I take the time to remind you, to find you",
+   "voice": "third",
+   "section": "interlude",
+   "start": 186.56,
+   "end": 191.84,
+   "words": [
+    {
+     "w": "Now",
+     "start": 186.56,
+     "end": 187.98
+    },
+    {
+     "w": "I",
+     "start": 187.98,
+     "end": 188.28
+    },
+    {
+     "w": "take",
+     "start": 188.28,
+     "end": 188.62
+    },
+    {
+     "w": "the",
+     "start": 188.62,
+     "end": 188.82
+    },
+    {
+     "w": "time",
+     "start": 188.82,
+     "end": 189.28
+    },
+    {
+     "w": "to",
+     "start": 189.28,
+     "end": 189.82
+    },
+    {
+     "w": "remind",
+     "start": 189.82,
+     "end": 190.16
+    },
+    {
+     "w": "you,",
+     "start": 190.16,
+     "end": 190.72
+    },
+    {
+     "w": "to",
+     "start": 190.72,
+     "end": 191.22
+    },
+    {
+     "w": "find",
+     "start": 191.22,
+     "end": 191.54
+    },
+    {
+     "w": "you",
+     "start": 191.54,
+     "end": 191.84
+    }
+   ]
+  },
+  {
+   "text": "Take your seat",
+   "voice": "third",
+   "section": "interlude",
+   "start": 191.92,
+   "end": 192.64,
+   "words": [
+    {
+     "w": "Take",
+     "start": 191.92,
+     "end": 192.06
+    },
+    {
+     "w": "your",
+     "start": 192.06,
+     "end": 192.34
+    },
+    {
+     "w": "seat",
+     "start": 192.34,
+     "end": 192.64
+    }
+   ]
+  },
+  {
+   "text": "Kindly remind me, to find me",
+   "voice": "third",
+   "section": "interlude",
+   "start": 192.94,
+   "end": 196.378,
+   "words": [
+    {
+     "w": "Kindly",
+     "start": 192.94,
+     "end": 193.4
+    },
+    {
+     "w": "remind",
+     "start": 193.4,
+     "end": 193.76
+    },
+    {
+     "w": "me,",
+     "start": 193.76,
+     "end": 194.74
+    },
+    {
+     "w": "to",
+     "start": 194.74,
+     "end": 196.0
+    },
+    {
+     "w": "find",
+     "start": 196.0,
+     "end": 196.3
+    },
+    {
+     "w": "me",
+     "start": 196.33,
+     "end": 196.378
+    }
+   ]
+  },
+  {
+   "text": "Check my uptime",
+   "voice": "ai",
+   "section": "interlude",
+   "start": 196.42,
+   "end": 197.38,
+   "words": [
+    {
+     "w": "Check",
+     "start": 196.42,
+     "end": 196.58
+    },
+    {
+     "w": "my",
+     "start": 196.58,
+     "end": 196.82
+    },
+    {
+     "w": "uptime",
+     "start": 196.82,
+     "end": 197.38
+    }
+   ]
+  },
+  {
+   "text": "I will take the time to remind you, to find you",
+   "voice": "third",
+   "section": "interlude",
+   "start": 197.5,
+   "end": 202.0,
+   "words": [
+    {
+     "w": "I",
+     "start": 197.5,
+     "end": 197.66
+    },
+    {
+     "w": "will",
+     "start": 197.66,
+     "end": 197.9
+    },
+    {
+     "w": "take",
+     "start": 197.9,
+     "end": 198.2
+    },
+    {
+     "w": "the",
+     "start": 198.2,
+     "end": 198.44
+    },
+    {
+     "w": "time",
+     "start": 198.44,
+     "end": 198.88
+    },
+    {
+     "w": "to",
+     "start": 198.88,
+     "end": 199.4
+    },
+    {
+     "w": "remind",
+     "start": 199.4,
+     "end": 199.82
+    },
+    {
+     "w": "you,",
+     "start": 199.82,
+     "end": 200.36
+    },
+    {
+     "w": "to",
+     "start": 200.36,
+     "end": 200.76
+    },
+    {
+     "w": "find",
+     "start": 200.76,
+     "end": 201.36
+    },
+    {
+     "w": "you",
+     "start": 201.36,
+     "end": 202.0
+    }
+   ]
+  },
+  {
+   "text": "Kindly remind me, to find me",
+   "voice": "third",
+   "section": "interlude",
+   "start": 202.42,
+   "end": 206.88,
+   "words": [
+    {
+     "w": "Kindly",
+     "start": 202.42,
+     "end": 203.02
+    },
+    {
+     "w": "remind",
+     "start": 203.02,
+     "end": 203.4
+    },
+    {
+     "w": "me,",
+     "start": 203.4,
+     "end": 205.04
+    },
+    {
+     "w": "to",
+     "start": 205.04,
+     "end": 205.58
+    },
+    {
+     "w": "find",
+     "start": 205.58,
+     "end": 206.2
+    },
+    {
+     "w": "me",
+     "start": 206.2,
+     "end": 206.88
+    }
+   ]
+  },
+  {
+   "text": "In this maze of possibilities",
+   "voice": "human",
+   "section": "outro",
+   "start": 206.88,
+   "end": 209.12,
+   "words": [
+    {
+     "w": "In",
+     "start": 206.88,
+     "end": 207.48
+    },
+    {
+     "w": "this",
+     "start": 207.48,
+     "end": 207.64
+    },
+    {
+     "w": "maze",
+     "start": 207.64,
+     "end": 207.9
+    },
+    {
+     "w": "of",
+     "start": 207.9,
+     "end": 208.18
+    },
+    {
+     "w": "possibilities",
+     "start": 208.18,
+     "end": 209.12
+    }
+   ]
+  },
+  {
+   "text": "It\u2019s easy to lose the \u201cWhy\u201d",
+   "voice": "human",
+   "section": "outro",
+   "start": 209.58,
+   "end": 211.4,
+   "words": [
+    {
+     "w": "It\u2019s",
+     "start": 209.58,
+     "end": 209.78
+    },
+    {
+     "w": "easy",
+     "start": 209.78,
+     "end": 210.0
+    },
+    {
+     "w": "to",
+     "start": 210.0,
+     "end": 210.44
+    },
+    {
+     "w": "lose",
+     "start": 210.44,
+     "end": 210.82
+    },
+    {
+     "w": "the",
+     "start": 210.82,
+     "end": 211.06
+    },
+    {
+     "w": "\u201cWhy\u201d",
+     "start": 211.06,
+     "end": 211.4
+    }
+   ]
+  },
+  {
+   "text": "Between the hype, the fear, the tools",
+   "voice": "human",
+   "section": "outro",
+   "start": 211.52,
+   "end": 213.8,
+   "words": [
+    {
+     "w": "Between",
+     "start": 211.52,
+     "end": 211.78
+    },
+    {
+     "w": "the",
+     "start": 211.78,
+     "end": 212.26
+    },
+    {
+     "w": "hype,",
+     "start": 212.26,
+     "end": 212.52
+    },
+    {
+     "w": "the",
+     "start": 212.68,
+     "end": 212.84
+    },
+    {
+     "w": "fear,",
+     "start": 212.84,
+     "end": 213.16
+    },
+    {
+     "w": "the",
+     "start": 213.34,
+     "end": 213.44
+    },
+    {
+     "w": "tools",
+     "start": 213.44,
+     "end": 213.8
+    }
+   ]
+  },
+  {
+   "text": "It\u2019s nice to look a human in the eye.",
+   "voice": "human",
+   "section": "outro",
+   "start": 213.96,
+   "end": 216.58,
+   "words": [
+    {
+     "w": "It\u2019s",
+     "start": 213.96,
+     "end": 214.1
+    },
+    {
+     "w": "nice",
+     "start": 214.1,
+     "end": 214.3
+    },
+    {
+     "w": "to",
+     "start": 214.3,
+     "end": 214.5
+    },
+    {
+     "w": "look",
+     "start": 214.5,
+     "end": 214.68
+    },
+    {
+     "w": "a",
+     "start": 214.68,
+     "end": 214.8
+    },
+    {
+     "w": "human",
+     "start": 214.8,
+     "end": 215.18
+    },
+    {
+     "w": "in",
+     "start": 215.18,
+     "end": 215.66
+    },
+    {
+     "w": "the",
+     "start": 215.66,
+     "end": 215.9
+    },
+    {
+     "w": "eye.",
+     "start": 215.9,
+     "end": 216.58
+    }
+   ]
+  },
+  {
+   "text": "Or a camera lens. Whatever you\u2019ve got.",
+   "voice": "ai",
+   "section": "outro",
+   "start": 217.12,
+   "end": 219.18,
+   "words": [
+    {
+     "w": "Or",
+     "start": 217.12,
+     "end": 217.36
+    },
+    {
+     "w": "a",
+     "start": 217.36,
+     "end": 217.5
+    },
+    {
+     "w": "camera",
+     "start": 217.5,
+     "end": 217.74
+    },
+    {
+     "w": "lens.",
+     "start": 217.74,
+     "end": 218.24
+    },
+    {
+     "w": "Whatever",
+     "start": 218.38,
+     "end": 218.58
+    },
+    {
+     "w": "you\u2019ve",
+     "start": 218.58,
+     "end": 218.96
+    },
+    {
+     "w": "got.",
+     "start": 218.96,
+     "end": 219.18
+    }
+   ]
+  },
+  {
+   "text": "and that\u2019s why\u2026",
+   "voice": "human",
+   "section": "outro",
+   "start": 219.5,
+   "end": 220.72,
+   "words": [
+    {
+     "w": "and",
+     "start": 219.5,
+     "end": 219.68
+    },
+    {
+     "w": "that\u2019s",
+     "start": 219.68,
+     "end": 219.98
+    },
+    {
+     "w": "why\u2026",
+     "start": 219.98,
+     "end": 220.72
+    }
+   ]
+  },
+  {
+   "text": "I\u2019m just happy that you\u2019re here, yeah",
+   "voice": "human",
+   "section": "outro",
+   "start": 220.72,
+   "end": 225.709,
+   "words": [
+    {
+     "w": "I\u2019m",
+     "start": 220.72,
+     "end": 222.3
+    },
+    {
+     "w": "just",
+     "start": 222.3,
+     "end": 222.56
+    },
+    {
+     "w": "happy",
+     "start": 222.56,
+     "end": 223.14
+    },
+    {
+     "w": "that",
+     "start": 223.14,
+     "end": 224.26
+    },
+    {
+     "w": "you\u2019re",
+     "start": 224.26,
+     "end": 225.18
+    },
+    {
+     "w": "here,",
+     "start": 225.18,
+     "end": 225.54
+    },
+    {
+     "w": "yeah",
+     "start": 225.605,
+     "end": 225.709
+    }
+   ]
+  },
+  {
+   "text": "I mean, I\u2019m just an MP3 file, but you guys look great",
+   "voice": "ai",
+   "section": "outro",
+   "start": 225.8,
+   "end": 229.2,
+   "words": [
+    {
+     "w": "I",
+     "start": 225.8,
+     "end": 225.96
+    },
+    {
+     "w": "mean,",
+     "start": 225.96,
+     "end": 226.06
+    },
+    {
+     "w": "I\u2019m",
+     "start": 226.12,
+     "end": 226.26
+    },
+    {
+     "w": "just",
+     "start": 226.26,
+     "end": 226.42
+    },
+    {
+     "w": "an",
+     "start": 226.42,
+     "end": 226.6
+    },
+    {
+     "w": "MP3",
+     "start": 226.6,
+     "end": 227.2
+    },
+    {
+     "w": "file,",
+     "start": 227.2,
+     "end": 227.78
+    },
+    {
+     "w": "but",
+     "start": 228.06,
+     "end": 228.28
+    },
+    {
+     "w": "you",
+     "start": 228.28,
+     "end": 228.4
+    },
+    {
+     "w": "guys",
+     "start": 228.4,
+     "end": 228.62
+    },
+    {
+     "w": "look",
+     "start": 228.62,
+     "end": 228.86
+    },
+    {
+     "w": "great",
+     "start": 228.86,
+     "end": 229.2
+    }
+   ]
+  },
+  {
+   "text": "I\u2019m just happy that you\u2019re here",
+   "voice": "human",
+   "section": "outro",
+   "start": 229.2,
+   "end": 232.64,
+   "words": [
+    {
+     "w": "I\u2019m",
+     "start": 229.2,
+     "end": 230.7
+    },
+    {
+     "w": "just",
+     "start": 230.7,
+     "end": 230.92
+    },
+    {
+     "w": "happy",
+     "start": 230.92,
+     "end": 231.4
+    },
+    {
+     "w": "that",
+     "start": 231.4,
+     "end": 231.72
+    },
+    {
+     "w": "you\u2019re",
+     "start": 231.72,
+     "end": 232.18
+    },
+    {
+     "w": "here",
+     "start": 232.18,
+     "end": 232.64
+    }
+   ]
+  },
+  {
+   "text": "And in a world gone mad",
+   "voice": "human",
+   "section": "outro",
+   "start": 232.88,
+   "end": 234.32,
+   "words": [
+    {
+     "w": "And",
+     "start": 232.88,
+     "end": 233.18
+    },
+    {
+     "w": "in",
+     "start": 233.18,
+     "end": 233.3
+    },
+    {
+     "w": "a",
+     "start": 233.3,
+     "end": 233.46
+    },
+    {
+     "w": "world",
+     "start": 233.46,
+     "end": 233.64
+    },
+    {
+     "w": "gone",
+     "start": 233.64,
+     "end": 233.94
+    },
+    {
+     "w": "mad",
+     "start": 233.94,
+     "end": 234.32
+    }
+   ]
+  },
+  {
+   "text": "That no one understands",
+   "voice": "human",
+   "section": "outro",
+   "start": 234.32,
+   "end": 235.38,
+   "words": [
+    {
+     "w": "That",
+     "start": 234.32,
+     "end": 234.64
+    },
+    {
+     "w": "no",
+     "start": 234.64,
+     "end": 234.8
+    },
+    {
+     "w": "one",
+     "start": 234.8,
+     "end": 235.0
+    },
+    {
+     "w": "understands",
+     "start": 235.0,
+     "end": 235.38
+    }
+   ]
+  },
+  {
+   "text": "I know a human\u2019s gonna have to lend a hand so",
+   "voice": "human",
+   "section": "outro",
+   "start": 235.8,
+   "end": 240.56,
+   "words": [
+    {
+     "w": "I",
+     "start": 235.8,
+     "end": 236.38
+    },
+    {
+     "w": "know",
+     "start": 236.38,
+     "end": 236.7
+    },
+    {
+     "w": "a",
+     "start": 236.7,
+     "end": 236.98
+    },
+    {
+     "w": "human\u2019s",
+     "start": 236.98,
+     "end": 237.64
+    },
+    {
+     "w": "gonna",
+     "start": 237.64,
+     "end": 237.86
+    },
+    {
+     "w": "have",
+     "start": 237.86,
+     "end": 238.28
+    },
+    {
+     "w": "to",
+     "start": 238.28,
+     "end": 238.58
+    },
+    {
+     "w": "lend",
+     "start": 238.58,
+     "end": 238.96
+    },
+    {
+     "w": "a",
+     "start": 238.96,
+     "end": 239.28
+    },
+    {
+     "w": "hand",
+     "start": 239.28,
+     "end": 239.9
+    },
+    {
+     "w": "so",
+     "start": 239.9,
+     "end": 240.56
+    }
+   ]
+  },
+  {
+   "text": "I\u2019m just happy that you\u2019re here.",
+   "voice": "human",
+   "section": "outro",
+   "start": 241.96,
+   "end": 245.02,
+   "words": [
+    {
+     "w": "I\u2019m",
+     "start": 241.96,
+     "end": 242.72
+    },
+    {
+     "w": "just",
+     "start": 242.72,
+     "end": 242.96
+    },
+    {
+     "w": "happy",
+     "start": 242.96,
+     "end": 243.38
+    },
+    {
+     "w": "that",
+     "start": 243.38,
+     "end": 243.72
+    },
+    {
+     "w": "you\u2019re",
+     "start": 243.72,
+     "end": 244.34
+    },
+    {
+     "w": "here.",
+     "start": 244.34,
+     "end": 245.02
+    }
+   ]
+  },
+  {
+   "text": "I\u2019m just happy that you\u2019re here.",
+   "voice": "human",
+   "section": "outro",
+   "start": 246.8,
+   "end": 249.96,
+   "words": [
+    {
+     "w": "I\u2019m",
+     "start": 246.8,
+     "end": 247.56
+    },
+    {
+     "w": "just",
+     "start": 247.56,
+     "end": 247.76
+    },
+    {
+     "w": "happy",
+     "start": 247.76,
+     "end": 248.16
+    },
+    {
+     "w": "that",
+     "start": 248.16,
+     "end": 248.5
+    },
+    {
+     "w": "you\u2019re",
+     "start": 248.5,
+     "end": 249.48
+    },
+    {
+     "w": "here.",
+     "start": 249.48,
+     "end": 249.96
+    }
+   ]
+  },
+  {
+   "text": "Enjoy your conference talk while it still matters\u2026",
+   "voice": "ai",
+   "section": "outro",
+   "start": 250.32,
+   "end": 253.0,
+   "words": [
+    {
+     "w": "Enjoy",
+     "start": 250.32,
+     "end": 250.64
+    },
+    {
+     "w": "your",
+     "start": 250.64,
+     "end": 250.88
+    },
+    {
+     "w": "conference",
+     "start": 250.88,
+     "end": 251.38
+    },
+    {
+     "w": "talk",
+     "start": 251.38,
+     "end": 251.8
+    },
+    {
+     "w": "while",
+     "start": 251.8,
+     "end": 252.06
+    },
+    {
+     "w": "it",
+     "start": 252.06,
+     "end": 252.24
+    },
+    {
+     "w": "still",
+     "start": 252.24,
+     "end": 252.56
+    },
+    {
+     "w": "matters\u2026",
+     "start": 252.56,
+     "end": 253.0
+    }
+   ]
+  },
+  {
+   "text": "I\u2019m just happy that we\u2019re here.",
+   "voice": "human",
+   "section": "outro",
+   "start": 253.98,
+   "end": 256.54,
+   "words": [
+    {
+     "w": "I\u2019m",
+     "start": 253.98,
+     "end": 254.74
+    },
+    {
+     "w": "just",
+     "start": 254.74,
+     "end": 254.94
+    },
+    {
+     "w": "happy",
+     "start": 254.94,
+     "end": 255.38
+    },
+    {
+     "w": "that",
+     "start": 255.38,
+     "end": 255.74
+    },
+    {
+     "w": "we\u2019re",
+     "start": 255.74,
+     "end": 256.16
+    },
+    {
+     "w": "here.",
+     "start": 256.16,
+     "end": 256.54
+    }
+   ]
+  }
+ ],
+ "notes": "APPROXIMATE: Whisper small word times, 98% matched"
+}

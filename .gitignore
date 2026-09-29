@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+.vite/
+
+# renders
+out/
+
+# masters are large; the mp3 is tracked
+*.wav
+
+# local tooling
+.claude/
+*.log
